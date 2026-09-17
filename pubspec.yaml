@@ -1,6 +1,6 @@
 name: pixora
 description: Modern cache-first network images for Flutter with memory and disk caching, retries, placeholders, and prefetching.
-version: 0.1.0
+version: 0.1.1
 repository: https://github.com/amitsharma-eng/pixora
 
 environment:
